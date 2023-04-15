@@ -2,4 +2,4 @@
 Clone of Google meet
 Google Meet is a web-based video conferencing platform that focuses on the user interface and user experience. <br>
 This is the clone of the Google meet.<br>
-For reference [check out] (https://meet.google.com/) this.
+For reference [a link] (https://meet.google.com/) this.
