@@ -1,3 +1,5 @@
 # meet-clone
-Clone of google meet
-A frontend Google Meet clone is a web-based video conferencing platform that focuses on the user interface and user experience. It includes features such as video calling, screen sharing, chat, and real-time collaboration. The platform is designed to be intuitive and easy to use for users, with a clean and modern interface. It is accessible from any device with a web browser and offers a seamless user experience.
+Clone of Google meet
+Google Meet is a web-based video conferencing platform that focuses on the user interface and user experience. <br>
+This is the clone of the Google meet.<br>
+For reference [check out] (https://meet.google.com/) this.
