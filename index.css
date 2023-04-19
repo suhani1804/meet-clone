@@ -22,7 +22,9 @@ nav{
 .main .left .heading
 {
     display: inline-block;
-font-size: 2.85rem;
+    font-size: 2.85rem;
+    font-family: "Google Sans",Roboto,Arial,sans-serif;
+    color : #000000DE;
 }
 .main .left .heading h1
 {
@@ -33,9 +35,10 @@ font-size: 2.85rem;
 }
 .main .left .text
 {
+    font-family: "Google Sans",Roboto,Arial,sans-serif;
     font-size: 1.1rem;
 max-width: 25vw;
-color: #7a8997;
+color: #5f6368;
 line-height: 1.32;
 padding-left: 10px;
 padding-bottom: 20px;
@@ -86,6 +89,8 @@ hr{
 {
     margin-top: 20px;
     font-size: 18px;
+    font-family: Roboto,Arial,sans-serif;
+    color : #5f6368;
 }
 .foot a{
     text-decoration: none;
